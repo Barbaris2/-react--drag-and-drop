@@ -1,7 +1,7 @@
 # [react]-drag-and-drop
 
-_ReactJS_ приложение - drag and drop сортировака карточек. Создано при изучнии _ReactJS_.
-Смотрето на [codesandbox.io]()
+_ReactJS_ приложение - drag and drop сортировака карточек. Практика _ReactJS_.
+Смотрето на [codesandbox.io](https://yq250.csb.app/)
 
 ### Быстрый старт
 
