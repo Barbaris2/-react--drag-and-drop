@@ -5,7 +5,7 @@ _ReactJS_ приложение - drag and drop сортировака карто
 
 ### Быстрый старт
 
-- клонируйте репозиторий: `git clone .git`
+- клонируйте репозиторий: `git clone git remote add origin https://github.com/Barbaris2/-react--drag-and-drop.git`
 - установите зависимости: `yarn install` или `npm install`
 - запустите проект: `yarn start` or `npm start`
 - откройте [http://localhost:3000](http://localhost:3000) в Вашем браузере.
